@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Is it up and running now?
 
+### Posts
+{% for post in site.posts %}
+  {{ post.date }} [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
