@@ -1,4 +1,4 @@
-Link: [https://www.akademikerbladet.dk/aktuelt/2020/januar/derfor-bliver-det-ikke-normalt-med-en-4-dages-arbejdsuge]
+Link: <https://www.akademikerbladet.dk/aktuelt/2020/januar/derfor-bliver-det-ikke-normalt-med-en-4-dages-arbejdsuge>
 
 # Resumé
 
